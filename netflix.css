@@ -47,6 +47,10 @@ body{
     .ready-watch{
         font-size: 14px;
     }
+    .bottom-sec{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
 }
 @media screen and (min-width: 650px){
     .nav-bar{
@@ -83,6 +87,10 @@ body{
     }
     .ready-watch{
         font-size: 14px;
+    }
+    .bottom-sec{
+        padding-left: 80px;
+        padding-right: 80px;
     }
     
 }
