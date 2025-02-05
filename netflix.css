@@ -45,7 +45,7 @@ body{
         height: 50px;
     }
     .ready-watch{
-        font-size: 10px;
+        font-size: 12px;
     }
 }
 @media screen and (min-width: 650px){
